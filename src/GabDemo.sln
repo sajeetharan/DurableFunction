@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GabDemo.BasicFunction", "GabDemo.BasicFunction\GabDemo.BasicFunction.csproj", "{230C2BA0-58EE-455B-AF25-9F6B6E8F28AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GabDemo.Pattern1.FunctionChaining", "GabDemo.Pattern1.FunctionChaining\GabDemo.Pattern1.FunctionChaining.csproj", "{77C28AD9-440D-4D56-9D1D-E2A0E8CEA3E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GabDemo.Pattern2.FanOutFanIn", "GabDemo.Pattern2.FanOutFanIn\GabDemo.Pattern2.FanOutFanIn.csproj", "{3DB1338E-2193-4951-AF58-1585BA97BAAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GabDemo.Pattern3.AsyncHttp", "GabDemo.Pattern3.AsyncHttp\GabDemo.Pattern3.AsyncHttp.csproj", "{570EDAD7-F61B-4566-B2EE-957604951390}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GabDemo.Pattern4.Monitor", "GabDemo.Pattern4.Monitor\GabDemo.Pattern4.Monitor.csproj", "{63AE4F22-853A-47B9-97F0-CE2C6E25E04A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GabDemo.Pattern5.HumanInteraction", "GabDemo.Pattern5.HumanInteraction\GabDemo.Pattern5.HumanInteraction.csproj", "{7C6DFA1C-E20C-4EB9-B9F7-877493FD1DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230C2BA0-58EE-455B-AF25-9F6B6E8F28AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230C2BA0-58EE-455B-AF25-9F6B6E8F28AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230C2BA0-58EE-455B-AF25-9F6B6E8F28AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230C2BA0-58EE-455B-AF25-9F6B6E8F28AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C28AD9-440D-4D56-9D1D-E2A0E8CEA3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C28AD9-440D-4D56-9D1D-E2A0E8CEA3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C28AD9-440D-4D56-9D1D-E2A0E8CEA3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C28AD9-440D-4D56-9D1D-E2A0E8CEA3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB1338E-2193-4951-AF58-1585BA97BAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB1338E-2193-4951-AF58-1585BA97BAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB1338E-2193-4951-AF58-1585BA97BAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB1338E-2193-4951-AF58-1585BA97BAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570EDAD7-F61B-4566-B2EE-957604951390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570EDAD7-F61B-4566-B2EE-957604951390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570EDAD7-F61B-4566-B2EE-957604951390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570EDAD7-F61B-4566-B2EE-957604951390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AE4F22-853A-47B9-97F0-CE2C6E25E04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AE4F22-853A-47B9-97F0-CE2C6E25E04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AE4F22-853A-47B9-97F0-CE2C6E25E04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AE4F22-853A-47B9-97F0-CE2C6E25E04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6DFA1C-E20C-4EB9-B9F7-877493FD1DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6DFA1C-E20C-4EB9-B9F7-877493FD1DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6DFA1C-E20C-4EB9-B9F7-877493FD1DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6DFA1C-E20C-4EB9-B9F7-877493FD1DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD9D0EC-3EFC-4BC3-BB30-273EAA9C4C61}
+	EndGlobalSection
+EndGlobal
